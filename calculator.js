@@ -84,7 +84,7 @@ addiction_button.onclick=function(){
     display.textContent=result;
 }
 double0_button.onclick=function(){
-    result+='00';
+    result+='0'+'0';
     display.textContent=result;
 }
 zero_button.onclick=function(){
